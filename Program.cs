@@ -6,7 +6,10 @@ namespace RUAPLV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Josip Juhasz, broj indeksa 0123456789");
+
+
+            Console.WriteLine("Pozdrav iz aplikacije od Josip Juhasz");
+
         }
     }
 }
